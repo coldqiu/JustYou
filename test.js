@@ -14,3 +14,5 @@ class Animal {
 
 const animal = new Animal('dog', 'white')
 animal.toString()
+
+module.exports = Animal
