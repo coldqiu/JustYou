@@ -1,4 +1,4 @@
-console.log("this.is.test.js")
+console.log("this.is.test.js.new test.?.")
 
 
 class Animal {
@@ -16,3 +16,4 @@ const animal = new Animal('dog', 'white')
 animal.toString()
 
 module.exports = Animal
+
